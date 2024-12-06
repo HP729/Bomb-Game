@@ -1,6 +1,0 @@
-1. Looping with Repetition Control Structures
-2. Branching with Selection Control Structures
-3. File I/O
-4. Using multiple classes
-5. Multi-Dimensional Arrays
-6. Functional Decomposition
